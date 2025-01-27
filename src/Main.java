@@ -50,10 +50,9 @@ public class Main {
         for (int i = 2; i <= 2; i++) {
             for (int j = 1; j <= 10 ; j++) {
                 int sum = 2;
-                sum = i*j;
-                System.out.println(i + "*"+j+"="+sum);
+                sum = i * j;
+                System.out.println(i + "*" + j + "=" + sum);
             }
-                System.out.println();
             }
         }
     }
